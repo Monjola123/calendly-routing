@@ -29,10 +29,10 @@ const IndividualComponent = () => {
         </div>
         <div className="col-md-6 juju" style={{ height: '300px', border: '1px solid transparent', backgroundImage: 'url(https://th.bing.com/th/id/OIP.LgjKYEYpnO9qQh1-PREDdgHaE7?w=253&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7)', backgroundRepeat: 'no-repeat', backgroundSize: 'contain' }}></div>
       </div>
-      <div className="col-md-12 yooooooo" style={{ height: '300px', border: '1px solid transparent', backgroundImage: 'url(https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/campaign-pages/megatron/megatron-description-boxes2.jpg)', marginTop: '10px', backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center' }}>
-        <h4 className="wake" style={{ width: '40%', margin: '30px', textAlign: 'left', fontFamily: 'sans-serif', fontWeight: 'bolder', fontSize: '40px', color: 'white' }}>Find just-right plans for individuals and small teams</h4>
-        <label style={{ textAlign: 'center', height: '60px', width: '15%', border: '2px solid lightslategrey', borderRadius: '30px', float: 'none', backgroundColor: 'white', marginLeft: '30px' }}>
-          <button className="lila" style={{ color: 'black', fontWeight: 'bold', backgroundColor: 'transparent', marginTop: '10px', fontFamily: 'berlin sans fb', border: 'transparent' }}>Sign Up for free</button>
+      <div className="col-md-12 yooooooo" style={{ height: '300px', border: '1px solid transparent', backgroundImage: 'url(https://images.unsplash.com/photo-1530543787849-128d94430c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)', marginTop: '10px', backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center' }}>
+        <h4 className="wake" style={{ width: '40%', margin: '30px', textAlign: 'left', fontFamily: 'sans-serif', fontWeight: 'bolder', fontSize: '40px', color: 'grey' }}>Find just-right plans for individuals and small teams</h4>
+        <label style={{ textAlign: 'center', height: '60px', width: '15%', border: '2px solid lightslategrey', borderRadius: '30px', float: 'none', backgroundColor: 'grey', marginLeft: '30px' }}>
+          <button className="lila" style={{ color: 'yellow', fontWeight: 'bold', backgroundColor: 'transparent', marginTop: '10px', fontFamily: 'berlin sans fb', border: 'transparent' }}>Sign Up for free</button>
         </label>
       </div>
       <div className="row pree">

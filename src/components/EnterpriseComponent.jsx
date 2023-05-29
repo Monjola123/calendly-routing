@@ -20,13 +20,7 @@ const EnterpriseComponent = () => {
   textAlign: 'center',
   width: '34%',
   marginLeft: '34%',}}>Trusted by more than 50,000 of the world's leading organizations</p>
-        <div className="row">
-          <p className="rexy type"></p>
-          <p className="rexy trre"></p>
-          <p className="rexy tree"></p>
-          <p className="rexy trer"></p>
-          <p className="rexy trrr"></p>
-        </div>
+       
       </div>
 
       <div className="row">

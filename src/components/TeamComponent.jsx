@@ -75,13 +75,13 @@ const TeamComponent = () => {
       <div className="row damn">
         <div className="col-md-6 juu" style={{ height: '300px',
   border: '1px solid transparent',
-  backgroundImage: 'url(https://www.ish.org.uk/wp-content/uploads/2021/03/Job-Interview-Vector-Illustration-585x390.jpg)',
+  backgroundImage: 'url(https://images.ctfassets.net/k0lk9kiuza3o/2kDoMYSe09e5HLJRrEK1x1/6fb217db9729272ebee7c49a397aaaf8/Calendly-Customizing-filtering.png?w=1140&h=930&q=85&fm=webp)',
   backgroundRepeat: 'no-repeat',
   backgroundSize: 'contain',}}></div>
 
         <div className="col-md-6 joro">
-          <p className="huhu" style={{color: '#0f4cd9',
-  fontSize: '20px',}}>AUTOMATED ASSIGNMENT</p>
+          <div className="huhu" style={{color: '#0f4cd9',
+  fontSize: '20px',}}>AUTOMATED ASSIGNMENT</div>
           <h1 className="leye" style={{  color: '#23345c',
   fontWeight: 'bold',
   fontSize: '30px',}}>Control your team, get booked</h1>
